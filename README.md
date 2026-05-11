@@ -1,2 +1,2 @@
 # first-remote-repo
-my first job
+This repository is also for study of git.
